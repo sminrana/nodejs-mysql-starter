@@ -64,3 +64,5 @@ npm run coverage
 * redis
 * x-xss-protection
   
+  ## License
+  GNU General Public License v3.0 
