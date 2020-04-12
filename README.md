@@ -11,6 +11,10 @@ Only two urls added for example
 
 [Screenshot of the folder structure](https://d.pr/i/OPv6pr)
 
+## Requirements
+* Node.js
+* NPM
+* MySQL/Maria DB
 
 ## Installation
 Update npm packages 
